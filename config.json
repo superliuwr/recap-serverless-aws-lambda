@@ -1,0 +1,37 @@
+{
+  "default": {
+    "profile": {
+        "name": "Marvin Liu",
+        "email": "marvin@somewher.com",
+        "title": "Default Engineer"
+    }
+  },
+  "dev": {
+      "profile": {
+        "name": "Marvin Liu",
+        "email": "marvin@somewher.com",
+        "title": "Dev Engineer"
+    }
+  },
+  "devint": {
+      "profile": {
+        "name": "Marvin Liu",
+        "email": "marvin@somewher.com",
+        "title": "DevInt Engineer"
+    }
+  },
+  "staging": {
+      "profile": {
+        "name": "Marvin Liu",
+        "email": "marvin@somewher.com",
+        "title": "Staging Engineer"
+    }
+  },
+  "production": {
+      "profile": {
+        "name": "Marvin Liu",
+        "email": "marvin@somewher.com",
+        "title": "Production Engineer"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+4.3.2
+# AWS only provides a 4.3.2 runtime for Node.js
+# This file manages the node version used via `nodenv` (assuming you use that)
+# `nodenv` (https://github.com/nodenv/nodenv) is the recommended approach for
+#  managing Node.js versions

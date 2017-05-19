@@ -1,0 +1,14 @@
+extends:
+  - airbnb
+  - plugin:node/recommended
+plugins:
+  - import
+  - jsx-a11y
+  - node
+  - react
+rules:
+  comma-dangle: "off"
+  node/no-deprecated-api: "off"
+  strict: "off"
+env:
+  node: true
